@@ -11,6 +11,7 @@
     "url": "https://github.com/KazanExpress/tslint.git"
   },
   "devDependencies": {
-    "@kazanexpress/frontend-commitlint": "^1.1.1"
+    "@kazanexpress/frontend-commitlint": "^1.1.1",
+    "tslint": "^5.17.0"
   }
 }
