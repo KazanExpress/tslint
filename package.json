@@ -1,0 +1,16 @@
+{
+  "name": "@kazanexpress/tslint",
+  "version": "1.0.0",
+  "main": "tslint.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KazanExpress/tslint.git"
+  },
+  "devDependencies": {
+    "@kazanexpress/frontend-commitlint": "^1.1.1"
+  }
+}
