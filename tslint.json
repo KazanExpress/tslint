@@ -40,7 +40,7 @@
         "multiline": {
           "typeLiterals": "always",
           "objects": "always",
-          "arrays": "always",
+          "arrays": "never",
           "functions": "never",
         },
         "esSpecCompliant": true
