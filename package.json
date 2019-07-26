@@ -1,6 +1,6 @@
 {
   "name": "@kazanexpress/tslint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "tslint.json",
   "publishConfig": {
     "access": "public"
