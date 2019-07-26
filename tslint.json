@@ -41,7 +41,7 @@
           "typeLiterals": "always",
           "objects": "always",
           "arrays": "never",
-          "functions": "never",
+          "functions": "never"
         },
         "esSpecCompliant": true
       }
