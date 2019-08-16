@@ -20,7 +20,7 @@
     "no-return-await": true,
     "no-string-literal": true,
     "no-string-throw": { "severity": "error" },
-    "no-unbound-method": { "severity": "warning" },
+    "no-unbound-method": false,
     "no-unnecessary-callback-wrapper": { "severity": "warning" },
     "no-unsafe-finally": true,
     "no-var-requires": true,
