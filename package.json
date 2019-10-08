@@ -16,5 +16,8 @@
   },
   "peerDependencies": {
     "typescript": "^3.5.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
